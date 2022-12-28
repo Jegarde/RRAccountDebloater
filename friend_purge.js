@@ -31,6 +31,8 @@ if ("Message" in friends) {
 friend_count = friends.length;
 
 // Get all unfavorited friends
+// 0 means neither has favorited each other
+// 2 means the friend has you favorited, but you haven't favorited them
 unfavorited = friends.filter(f => f["Favorited"] === 0 || f["Favorited"] === 2);
 
 // Get total unfavorite count
