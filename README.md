@@ -10,5 +10,5 @@ All scripts are to be ran in your browser's console while logged in on [RecNet](
 
 ## Scripts
 ### Friend purging
-Found [here](https://github.com/Jegarde/RRAccountDebloater/blob/main/friend_purge.js).
+Found [here](https://raw.githubusercontent.com/Jegarde/RRAccountDebloater/main/friend_purge.js).
 This script purges all your friends BUT keeps the favorited ones. Get rid of all your unimportant friends.
